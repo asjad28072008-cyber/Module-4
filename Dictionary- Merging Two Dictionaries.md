@@ -18,6 +18,8 @@ print(dict1)
 ```
 
 
+
+
 ## Output
 
 <img width="1310" height="151" alt="Screenshot 2025-10-20 113818" src="https://github.com/user-attachments/assets/06a269bc-c840-40ed-8a26-28160357fc8d" />
