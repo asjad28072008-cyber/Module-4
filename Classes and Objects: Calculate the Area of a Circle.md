@@ -11,9 +11,24 @@ To write a Python program that calculates the **area of a circle** based on the 
 4. **Execute the program**: Create an object of the class and call the method with the radius value.
 
 ## 🧾 Program
+```
+import math
+def cir(hj):
+    ol=math.pi*hj*hj
+    print(f"Area of circle: {ol:.2f}")
+f=int(input())
+cir(f)
+```
 
-Add code here
 
 ## Output
 
+
+<img width="715" height="180" alt="Screenshot 2025-10-20 112945" src="https://github.com/user-attachments/assets/d260e5bc-0301-44f3-920c-a0722f80f48a" />
+
+
+
 ## Result
+
+
+Thus,the python program has been executed successfully
